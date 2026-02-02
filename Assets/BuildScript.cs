@@ -9,7 +9,7 @@ public class BuildScript
 
         BuildPipeline.BuildPlayer(
             senes,
-            "Build/Windows/MyGame.exe",
+            "Build/Windows/Jenkins.exe",
             BuildTarget.StandaloneWindows64,
             BuildOptions.None
         );
